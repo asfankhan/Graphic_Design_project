@@ -1,0 +1,22 @@
+﻿  Moc'ing myglwidget.h...
+  moc_myglwidget.cpp
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\oleauto.h(1403): warning C4005: 'V_ERROR': macro redefinition
+  c:\users\asfandyarkhan\downloads\project_7_351\cs351_finalpartone_khan\algebra3.h(24): note: see previous definition of 'V_ERROR'
+  moc_window.cpp
+c:\users\asfandyarkhan\downloads\project_7_351\cs351_finalpartone_khan\algebra3.h(24): warning C4005: 'V_ERROR': macro redefinition
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\oleauto.h(1403): note: see previous definition of 'V_ERROR'
+  eController.cpp
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\oleauto.h(1403): warning C4005: 'V_ERROR': macro redefinition
+  c:\users\asfandyarkhan\downloads\project_7_351\cs351_finalpartone_khan\algebra3.h(24): note: see previous definition of 'V_ERROR'
+  main.cpp
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\oleauto.h(1403): warning C4005: 'V_ERROR': macro redefinition
+  c:\users\asfandyarkhan\downloads\project_7_351\cs351_finalpartone_khan\algebra3.h(24): note: see previous definition of 'V_ERROR'
+  myglwidget.cpp
+c:\users\asfandyarkhan\downloads\project_7_351\cs351_finalpartone_khan\algebra3.h(24): warning C4005: 'V_ERROR': macro redefinition
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\oleauto.h(1403): note: see previous definition of 'V_ERROR'
+  window.cpp
+c:\users\asfandyarkhan\downloads\project_7_351\cs351_finalpartone_khan\algebra3.h(24): warning C4005: 'V_ERROR': macro redefinition
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\oleauto.h(1403): note: see previous definition of 'V_ERROR'
+  Generating Code...
+  SimpleQtOGL.vcxproj -> C:\Users\AsfandyarKhan\Downloads\Project_7_351\CS351_FinalPartOne_Khan\x64\Debug\SimpleQtOGL.exe
+  SimpleQtOGL.vcxproj -> C:\Users\AsfandyarKhan\Downloads\Project_7_351\CS351_FinalPartOne_Khan\x64\Debug\SimpleQtOGL.pdb (Full PDB)

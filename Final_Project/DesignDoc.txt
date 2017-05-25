@@ -1,0 +1,18 @@
+Perspective Transformation/Zooming Explination:
+not too sure, wasnt really a problem with me but if i had to assume its beacuse the orthagnal doesnt work properly when at 0.
+
+Instructions:
+
+How To Use:
+
+1) select face of object
+2) click on slider(not to sure why its needed)
+3) press either a,w,s,d, to rotate the object
+4) press e,f to increase or decrease the radius
+5) press auto rotate to make the cube rotate on its own over an axis.
+
+
+Selection:
+there is a white cube that shows what vertex is selected
+j,k,l,I keys will move the selection cube around the grid
+change height button will change what height will be input.
